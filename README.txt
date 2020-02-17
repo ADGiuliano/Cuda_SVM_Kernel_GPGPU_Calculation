@@ -1,3 +1,3 @@
-# Cuda SVM Kernel GPGPU Calculation
+#Cuda SVM Kernel GPGPU Calculation
 
 Bachelord degree thesis
